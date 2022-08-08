@@ -52,3 +52,17 @@
 - 메인페이지 레이아웃
 - 검색기능 구현
 - 검색 항목별 데이터 요청
+
+### Installation
+
+```
+npm install
+```
+
+### Run
+
+```
+npm run server
+npm run dev
+```
+
