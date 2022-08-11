@@ -1,4 +1,22 @@
 # (주) 에스앤피랩 기업과제
+### Installation
+
+```
+npm install
+```
+
+### Run
+
+```
+npm run server
+npm run dev
+```
+
+
+## 개발 인원 및 기간
+
+- 개발기간 : 2022/07/21 ~ 2022/07/27
+- 개발 인원 : 프론트엔드 5명
 ### 랜딩페이지
 <img src="https://user-images.githubusercontent.com/90256059/181163370-a302ff7c-fe60-4f06-b92d-50b8873abc64.PNG" width="70%">
 
